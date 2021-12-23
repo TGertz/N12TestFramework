@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="C:/Users/TG/IdeaProjects/TestN12Framework">
+        <classes>
+            <class name="tests.validation.DateValidationTest">
+                <methods>
+                    <include name="dateValidationCheck"/>
+                </methods>
+            </class>
+            <class name="tests.validation.ValidationTest">
+                <methods>
+                    <include name="validationCheck"/>
+                </methods>
+            </class>
+            <class name="tests.validation.WeatherValidationTest">
+                <methods>
+                    <include name="validationCheck"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

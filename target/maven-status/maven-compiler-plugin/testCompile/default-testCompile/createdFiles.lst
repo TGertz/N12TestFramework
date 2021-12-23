@@ -1,0 +1,4 @@
+tests\validation\WeatherValidationTest.class
+tests\validation\ValidationTest.class
+tests\base\BaseTest.class
+tests\validation\DateValidationTest.class
