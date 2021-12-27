@@ -1,2 +1,2 @@
 # N12TestFramework
-Framework for Automation Tests to N12 Web Site based Java language
+Framework for Automation QA Tests to N12 Web Site based Java language
